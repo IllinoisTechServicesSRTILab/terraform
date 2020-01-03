@@ -8,6 +8,6 @@ terragrunt = {
   }
 }
 
-name = "uiuc-tech-services-as-test"
+name = "uiuc-tech-services-srti"
 name_override = "true"
 versioning_enabled = "true"
