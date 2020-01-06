@@ -1,0 +1,12 @@
+*.py
+*.swp
+
+terraform.tfstate
+terraform.tfstate.*
+
+.terraform
+.terragrunt-cache
+
+id_rsa
+id_rsa.pub
+*/*/test/terraform/*.tf
