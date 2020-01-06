@@ -4,7 +4,7 @@ terragrunt = {
   }
 
   terraform {
-    source = "git::git@github.com:cites-illinois/as-aws-modules.git//s3/basic?ref=v0.6.20"
+    source = "git::git@github.com:techservicesillinois/as-aws-modules.git//s3/basic?ref=v0.6.20"
   }
 }
 
